@@ -11,7 +11,7 @@ resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
   params:
-  	byline: "Photo: CC-BY-CA"
+    byline: "Photo: CC-BY-CA"
 ---
 
 本文最先发表于泰晓科技：
