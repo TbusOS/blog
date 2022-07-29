@@ -327,9 +327,7 @@ procedure.
 
 
 
-Here is a pictures: (`image-20220719201300279.png`)
-
-{{< imgproc sunset Fill "600x300" >}}
+{{< imgproc image-20220719201300279 Fill "600x300" >}}
 Fetch and scale an image in the upcoming Hugo 0.43.
 {{< /imgproc >}}
 
