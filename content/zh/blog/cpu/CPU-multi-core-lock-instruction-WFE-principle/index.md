@@ -329,7 +329,10 @@ procedure.
 
 ![image-20220719201300279](pictures.assets/image-20220719201300279.png)
 Here is a pictures: (`image-20220719201300279.png`)
-{{ $image := .Resources.GetMatch "image-20220719201300279.png"  }}
+{{ $image := .resources.Get "image-20220719201300279.png"  }}
+{{< imgproc sunset Fill "600x300" >}}
+Fetch and scale an image in the upcoming Hugo 0.43.
+{{< /imgproc >}}
 
 **ClearEventRegister()**
 
