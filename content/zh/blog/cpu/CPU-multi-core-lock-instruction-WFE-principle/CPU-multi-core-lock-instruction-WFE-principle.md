@@ -329,6 +329,7 @@ procedure.
 
 ![image-20220719201300279](pictures.assets/image-20220719201300279.png)
 Here is a pictures: (`image-20220719201300279.png`)
+{{ $image := .Resources.GetMatch "image-20220719201300279.png"  }}
 
 **ClearEventRegister()**
 
