@@ -11,7 +11,7 @@ resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
   params:
-    byline: "Photo: CC-BY-CA"
+    byline: "arm spec"
 ---
 
 本文最先发表于泰晓科技：
@@ -327,7 +327,7 @@ procedure.
 
 
 
-{{< imgproc image-20220719201300279 Fill "600x300" >}}
+{{< imgproc image-20220719201300279 Fill "800x400" >}}
 Fetch and scale an image in the upcoming Hugo 0.43.
 {{< /imgproc >}}
 
