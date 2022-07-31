@@ -1,7 +1,7 @@
 
 ---
 title: "CPU"
-linkTitle: "CPU Releases"
+linkTitle: "CPU"
 weight: 20
 ---
 

@@ -1,8 +1,8 @@
 ---
 linkTitle: ""
 author: "Liulf"
-categories: ["docs"]
-tags: ["blog","markdown","typora"] 
+categories: ["Blog Environment"]
+tags: ["blog","typora"] 
 title: "Hugo构建"
 date: 2022-07-20
 weight: 3

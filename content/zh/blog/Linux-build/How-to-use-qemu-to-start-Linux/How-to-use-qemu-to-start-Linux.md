@@ -1,8 +1,8 @@
 ---
 linkTitle: "如何使用qemu启动linux"
 author: "廖文雄"
-categories: ["linux", "qemu"]
-tags: ["docs"] 
+categories: ["Linux Build"]
+tags: ["qemu"] 
 title: "qemu-lunchlinux"
 date: 2022-07-18
 weight: 3

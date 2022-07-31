@@ -1,8 +1,8 @@
 ---
 linkTitle: "Typora 图床设置"
 author: "Liulf"
-categories: ["docs"]
-tags: ["blog","markdown","typora"] 
+categories: ["Blog Environment"]
+tags: ["blog","typora"] 
 title: "typora PicGo"
 date: 2022-07-20
 weight: 3
