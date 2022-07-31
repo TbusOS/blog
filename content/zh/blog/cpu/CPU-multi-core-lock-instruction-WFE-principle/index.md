@@ -328,7 +328,6 @@ procedure.
 
 
 {{< imgproc image-20220719201300279 Fill "800x400" >}}
-Fetch and scale an image in the upcoming Hugo 0.43.
 {{< /imgproc >}}
 
 **ClearEventRegister()**
